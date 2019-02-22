@@ -18,7 +18,6 @@ Markdonwとは？
 ### リンク
 
 [Wiki:Markdown](https://ja.wikipedia.org/wiki/Markdown):WikiのMarkdownのページ
-
 [el modismo](./modismo.md)
 
 ### 強調
