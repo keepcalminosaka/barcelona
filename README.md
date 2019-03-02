@@ -1,3 +1,3 @@
 # barcelona
 
-[contents of](https://keepcalminosaka.github.io/barcelona/)
+Contents for <https://keepcalminosaka.github.io/barcelona/>
