@@ -11,8 +11,7 @@ The term "mangas verdes" goes back to the Santa Hermandad, a peacekeeping force 
 about time, better late than never
 
 ## Chiste verde
-Un chiste verde es un chiste (joke en inglés) que utiliza un
-humor relacionado con el sexo.
+Un chiste verde es un chiste que utiliza un humor relacionado con el sexo.
 
 ## Estar verde
 Estar verde no tiene nada que ver con los chistes verdes, aunque lo parezca. Quiere decir que casi
