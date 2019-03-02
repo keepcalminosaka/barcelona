@@ -19,3 +19,8 @@ no sabes nada sobre algo. Por ejemplo:
 - Laura lleva una semana en el trabajo, pero aún le
 cuesta adaptarse.
 - Sí, pero pobre, está muy verde todavía. Dale tiempo.
+
+## Ponerse morado
+Ponerse morado significa comer mucho, hasta no poder más.
+- Ayer en la fiesta de aniversario me puse morado.
+Comíamos de todo: pasta, carne, pescado, dulces, ...
